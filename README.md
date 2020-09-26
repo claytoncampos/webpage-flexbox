@@ -8,14 +8,6 @@
 
 - FLEX-BOX
 
-  
-
-![](C:\Users\Clayton\Desktop\1.PNG)
-
-![2](C:\Users\Clayton\Desktop\2.PNG)
-
-![3](C:\Users\Clayton\Desktop\3.PNG)
-
-
+![](https://i.imgur.com/H9UjB1B.png)
 
 ##### Baseado nas aulas - Origamid:fist_oncoming:
